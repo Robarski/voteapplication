@@ -1,5 +1,3 @@
-'use strict';
-use
 Example Voting App
 =========
 
